@@ -1,0 +1,17 @@
+Applications of Stacks:
+	1) Reversing a word: We can push the letters one-by-one, and then pop it from the stack.
+	2) The task of "UNDO": We can keep every text changes in the stack, and to undo, we can pop them.
+	3) Parenthesis Matching: When we encounter an opening bracket, push it in the stack. 
+	   On encountering a closing bracket, pop the stack.
+	4) Backtracking: To access the most recent data element in a series of elements.
+	
+
+Applications of Queues:
+	1) While downloading multiple files, the order in which we select it, is the order in which it STARTS getting downloaded 
+	   (Time taken to download may vary). Hence this task follows First In First Out (FIFO).
+	2) Breadth First Search 
+	3) Queue is useful in CPU scheduling, Disk scheduling. When multiple processes require CPU at the same time, 
+	   various CPU scheduling algorithms are used which are implemented using queue data structure.
+	4) In customer servicing systems such as ticket booking or in call centres, queue is followed to decide the priority among customers.
+	
+	   
