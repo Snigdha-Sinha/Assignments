@@ -1,0 +1,16 @@
+1.
+given binary tree is complete
+Inorder-
+DBGEHACF
+Preorder-
+ABDEGHCF
+Postorder-
+DGHEBFCA
+2.
+given binary tree is complete
+Inorder-
+HDBEAFCG
+Preorder-
+ABDHECFG
+Postorder-
+HDEBFGCA
